@@ -14,6 +14,8 @@ Console Logging: Prints every successful calculation result to the terminal for 
 
 📸 Screenshot
 
+![Calculator Preview](screenshot.png)
+
 
 🛠️ Built With
 Language: Python 3.x
